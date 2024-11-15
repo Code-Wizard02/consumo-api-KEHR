@@ -1,20 +1,4 @@
 # ConsumoApiKEHR
-
-Este proyecto fue generado con: [Angular CLI](https://github.com/angular/angular-cli) versión 18.2.11.
-
-## Servidor de desarrollo
-
-Ejecuta `ng serve` para un servidor de desarrollo. Navega a `http://localhost:4200/`. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente.
-
-## Creación de componentes
-
-Ejecuta `ng generate component nombre-del-componente` para generar un nuevo componente. 
-
-## Construcción
-
-Ejecuta `ng build` para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio `dist/`.
-
-
 ## Pasos del proyecto
 
 ### Parte 1: Crear el Proyecto Angular
@@ -93,4 +77,5 @@ Genera el componente `UserListComponent` utilizando `ng generate component UserL
 
 **Finalmente podemos correr nuestra aplicación:** `ng serve`
 
-
+## Resultados 
+![Creando proyecto Angular](/src/img/8.png)
